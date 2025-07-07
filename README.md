@@ -12,6 +12,6 @@ I'm also a passionate self-taught programmer who likes to code in the free time.
 
 My linkedin profile:
 
-<a href="https://www.linkedin.com/in/andrepires4a23b812b/">
+<a href="https://www.linkedin.com/in/andresilvapires/">
   <img alt="Andre's Linkedin" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
