@@ -7,11 +7,3 @@ I'm also a passionate self-taught programmer who likes to code in the free time.
 **Languages and Tools:**  
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,docker,py,fastapi,postgres,&perline=3)](https://skillicons.dev)
-
-
-
-My linkedin profile:
-
-<a href="https://www.linkedin.com/in/andresilvapires/">
-  <img alt="Andre's Linkedin" src="https://skillicons.dev/icons?i=linkedin" />
-</a>
